@@ -16,4 +16,4 @@ function demeritPoints(speed) {
   }
 }
 //Example
-demeritPoints(90);
+demeritPoints(10);

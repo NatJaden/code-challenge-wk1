@@ -1,6 +1,6 @@
 //Prompts the user to enter their Basic salary and their benefits
-const basicSalary = parseInt(prompt("Enter basic salary:"));
-const benefits = parseInt(prompt("Enter benefits:"));
+const basicSalary = parseInt("10000");
+const benefits = parseInt("500");
 
 //Calculates gross salary
 let grossSalary = basicSalary + benefits;

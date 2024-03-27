@@ -1,5 +1,5 @@
 // Prompts the user to enter the students marks
-let marks = prompt("Enter student marks (0-100):");
+let marks = parseInt("65");
 
 // A function that gives the grade of the studen based on their marks
 function calculateMarks(marks) {
